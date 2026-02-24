@@ -1,3 +1,3 @@
-name = str(input("Hola ingresa tu nombre))
+name = str(input("Hola ingresa tu nombre"))
 
-print(f"Hola {name} como estas?)
+print(f"Hola {name} como estas?")
